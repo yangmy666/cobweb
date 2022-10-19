@@ -1,0 +1,34 @@
+export const fieldList=[
+    {
+        prop:'repository',
+        label:'镜像名称',
+        width:'150'
+    },
+    {
+        prop:'tag',
+        label:'标签',
+        width:'150'
+    },
+    {
+        prop:'imageId',
+        label:'镜像ID',
+        width:'150'
+    },
+    {
+        prop:'created',
+        label:'创建多久',
+        width:'150'
+    },
+    {
+        prop:'size',
+        label:'大小',
+        width:'150'
+    },
+    {
+        prop:'operation',
+        label:'操作',
+        width:'250',
+        slot:true,
+        fixed:'right'
+    }
+]

@@ -1,0 +1,8 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.yangmy.cobweb.common.core.config.SwaggerConfig,\
+  com.yangmy.cobweb.common.core.config.JacksonConfig,\
+  com.yangmy.cobweb.common.core.handle.GlobalExceptionHandler,\
+  com.yangmy.cobweb.common.core.config.CobwebConfig,\
+  com.yangmy.cobweb.common.core.config.WebMvcConfig,\
+  com.yangmy.cobweb.common.core.utils.rest.RestApiAspect,\
+  com.yangmy.cobweb.common.core.utils.SpringUtils

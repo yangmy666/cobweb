@@ -1,0 +1,13 @@
+server:
+  port: 7000
+cobweb:
+  let:
+    admin-base-url: ${admin}
+spring:
+  application:
+    name: cobweb-let
+  mvc:
+    pathmatch:
+      #兼容swagger2
+      matching-strategy: ant_path_matcher
+
