@@ -23,3 +23,5 @@ Java语言编写的适合中小型Java微服务项目的分布式容器管理+CI
 
 #### 前端目录，修改.env.production配置文件baseURL地址为cobweb-admin部署的地址
 ![image_1](./image_1.png)
+
+搞不成功的话加我QQ3152524195
